@@ -124,7 +124,7 @@ export default function Home(){
                         <h3 className='f5-t'>Rua XXXXXX XXX, Alphaville<br/>São Paulo - sp<br/>CEP: XXXXX-XXX</h3>
                     </div>
                     <div className='f5-images'>
-                        <img className='f5-logo' src='' alt=''></img>
+                        <img className='f5-logo' src='/images/odontotooths 1.svg' alt=''></img>
                         <br/><br/>
                         <img className='icon' src='/images/instagram (2) 2.svg' alt='instagram'></img>
                         <img className='f5-icon' src='/images/telefone 1.svg' alt='telefone'></img>

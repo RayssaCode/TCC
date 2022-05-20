@@ -9,7 +9,7 @@ export default function Agendar(){
             <nav className='faixa-1'>
                 <div className='texto-1'>
                 <a href='../administrativo'>
-                    <img className='logo' src='' alt=''></img>
+                    <img className='logo' src='/images/odontotooths 1.svg' alt=''></img>
                 </a>
                 <p>Documentação</p>
                 </div>

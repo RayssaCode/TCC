@@ -5,8 +5,8 @@ import './index.scss';
 
 export default function Login(){
     return(
-        <main>
-            <section className='page-login'>
+        <main className='page-login'>
+            <section>
                 <div className='logo'>
                     <img className='imagem' src='/images/odontotooths 1.svg' alt=''></img>
                     <a className='voltar' href='../home'>Voltar</a>

@@ -8,7 +8,7 @@ export default function Administrativo(){
         <main className='page-adm'>
             <section className='faixa-work'>
                 <div className='work-logo'>
-                    <img src='' alt=''></img>
+                    <img src='/images/odontotooths 1.svg' alt=''></img>
                     <a className='link' href='../home'>Página inicial</a>
                 </div>
                 <div className='work-elements'>

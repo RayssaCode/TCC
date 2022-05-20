@@ -10,7 +10,7 @@ export default function Agendamentos(){
                 <div className='fundo-agendamentos'>
                     <div>
                         <a href='../home/'>
-                            <img src='' alt=''></img>
+                            <img src='/images/odontotooths 1.svg' alt=''></img>
                         </a>
                     </div>
                     <div>
