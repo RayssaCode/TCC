@@ -1,0 +1,63 @@
+.page-login{
+    .faixa-login {
+        display: flex;
+        flex-direction: column;
+        background-color: #82DDAE;
+        height: 100vh;
+        text-align: center;
+    }
+    
+    .destacar-login {
+        display: flex;
+        justify-content: center;
+        background-color: #64C79D;
+        padding: 30px 0px;
+        border-radius: 30px;
+        margin: 0px 450px 400px;
+    }
+    
+    .logo {
+        padding-left: 50px;
+        display: flex;
+        justify-content: space-between;
+        color: #2F9C7C;
+    }
+    
+    .conteudo {
+        padding-top: 30px;
+    }
+    
+    .botao {
+        font-family: 'font3';                                                                       
+        font-size: 16px;
+        background-color: #CCFFE5;
+        color: #2F9C7C;
+        padding: 15px 60px;
+        margin-top: 50px;
+        border-radius: 5px;
+        border: none;
+        cursor: pointer;
+    }
+    
+    .f-1 {
+        border-radius: 10px;
+        height: 25px;
+        width: 300px;
+        border: none;
+    }
+    
+    .voltar {
+        padding-top: 50px;
+        font-family: 'font4';
+        margin-right: 100px;
+    }
+    
+    .imagem {
+        height: 100px;
+        width: 150px;
+    }
+    
+    .logos {
+        padding-right: 300px;
+    }
+}

@@ -1,0 +1,107 @@
+.page-agendamentos{
+    display: flex;
+    flex-direction: column;
+    .fundo-agendamento {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 15px 50px;
+    }
+    
+    .fundo-agendamento h2 {
+        font-family: 'font4';
+        color: #2F9C7C;
+        margin-left: 160px;
+        margin-top: 20px;
+    }
+    
+    .pesquisa {
+        border: solid 1px;
+        border-radius: 15px;
+        height: 35px;
+        width: 300px;
+    }
+    
+    .txt-pesquisa {
+        float: left;
+        background-color: transparent;
+        padding-left: 5px;
+        font-style: italic;
+        font-size: 18px;
+        border: none;
+        height: 35px;
+        width: 260px;
+    }
+    
+    .fundo-elements {
+        background-color: #CCFFE5;
+    }
+    
+    .cards {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin: 70px;
+    }
+    
+    .elements {
+        display: flex;
+        flex-direction: row;
+        width: 100px;
+        margin-top: 15px;
+    }
+    
+    .elements-2 {
+        display: flex;
+        flex-direction: column;
+        margin-right: 130px;
+    }
+    
+    .img-elements {
+        margin-left: 120px;
+    }
+    
+    .img-elements-1 {
+        margin-left: 10px;
+    }
+    
+    h3 {
+        font-family: 'font4';
+        color: #2F9C7C;
+    }
+    
+    p {
+        font-family: 'font6';
+        color: #9F9F9F;
+    }
+    
+    .date-time {
+        margin-top: 25px;
+        margin: 20px 0px;
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .card-1 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: #ffffff;
+        width: 430px;
+        height: 170px;
+        border: 1px solid #2F9C7C;
+        border-radius: 15px;
+    }
+    
+    .card-2 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: #ffffff;
+        width: 430px;
+        height: 170px;
+        margin-left: 150px;
+        border: 1px solid #2F9C7C;
+        border-radius: 15px;
+    }
+}
