@@ -4,17 +4,15 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Páginas</h1>
-      <Link to='/home'>Home</Link>
-      <br/>
-      <Link to='/login'>Login</Link> 
-      <br/>
-      <Link to='/administrativo'>Administrativo</Link>
-      <br/>
-      <Link to='/agendar'>Agendar</Link>
-      <br/>
-      <Link to='/agendamentos'>Agendamentos</Link>
+    <div>
+      <ul>
+        <h1> Páginas </h1>
+        <li> <Link to='/home'>Home</Link> </li>
+        <li> <Link to='/login'>Login</Link> </li>
+        <li> <Link to='/administrativo'>Administrativo</Link> </li>
+        <li> <Link to='/agendar'>Agendar</Link> </li>
+        <li> <Link to='/agendamentos'>Agendamentos</Link> </li>
+      </ul>
     </div>
   );
 }
