@@ -18,7 +18,7 @@ export default function Agendamentos(){
                     </div>
                     <div className='pesquisa'>
                         <input className='txt-pesquisa' type='text' name='consulta' placeholder='Digite a data da consulta'></input>
-                        <img src='' alt='pesquisa' width='25'></img>
+                        <img src='/images/lupa 1.png' alt='pesquisa' width='25'></img>
                     </div>
                 </div>
             </nav>
@@ -28,13 +28,11 @@ export default function Agendamentos(){
                     <div className='card-1'>
                         <div className='elements'>
                             <h3>Consulta</h3>
-                            <a href='../agendar'><img className='img-elements' src='' alt='lapis' width='20' height='20'></img></a>
-                            <img className='img-elements-1' src='' alt='lixeira' width='20' heigth='20'></img>
+                            <a href='../agendar'><img className='img-elements' src='/images/ferramenta-lapis 1.png' alt='lapis' width='20' height='20'></img></a>
                         </div>
                         <div className='elements-2'>
                             <div className='date-time'>
-                                <img src='' alt='calendario' width='30'></img>
-                                <img className='time' src='' alt='relogio' width='25'></img>
+                                <img src='/images/calendario 1.png' alt='calendario' width='30'></img>
                             </div>
                             <div>
                                 <p>Maria de Lourdes Rodrigues</p>
@@ -45,13 +43,11 @@ export default function Agendamentos(){
                     <div className='card-2'>
                         <div className='elements'>
                             <h3>Avaliação</h3>
-                            <a href='../agendar'><img className='img-elements' src='' alt='lapis' width='20' height='20'></img></a>
-                            <img className='img-elements-1' src='' alt='lixeira' width='20' heigth='20'></img>
+                            <a href='../agendar'><img className='img-elements' src='/images/ferramenta-lapis 1.png' alt='lapis' width='20' height='20'></img></a>
                         </div>
                         <div className='elements-2'>
                             <div className='date-time'>
-                                <img src='' alt='calendario' width='30'></img>
-                                <img className='time' src='' alt='relogio' width='25'></img>
+                                <img src='/images/calendario 1.png' alt='calendario' width='30'></img>
                             </div>
                             <div>
                                 <p>Maria de Lourdes Rodrigues</p>
@@ -62,13 +58,11 @@ export default function Agendamentos(){
                     <div className='card-1'>
                         <div className='elements'>
                             <h3>Consulta</h3>
-                            <a href='../agendar'><img className='img-elements' src='' alt='lapis' width='20' height='20'></img></a>
-                            <img className='img-elements-1' src='' alt='lixeira' width='20' heigth='20'></img>
+                            <a href='../agendar'><img className='img-elements' src='/images/ferramenta-lapis 1.png' alt='lapis' width='20' height='20'></img></a>
                         </div>
                         <div className='elements-2'>
                             <div className='date-time'>
-                                <img src='' alt='calendario' width='30'></img>
-                                <img className='time' src='' alt='relogio' width='25'></img>
+                                <img src='/images/calendario 1.png' alt='calendario' width='30'></img>
                             </div>
                             <div>
                                 <p>Maria de Lourdes Rodrigues</p>
@@ -79,13 +73,11 @@ export default function Agendamentos(){
                     <div className='card-2'>
                         <div className='elements'>
                             <h3>Avaliação</h3>
-                            <a href='../agendar'><img className='img-elements' src='' alt='lapis' width='20' height='20'></img></a>
-                            <img className='img-elements-1' src='' alt='lixeira' width='20' heigth='20'></img>
+                            <a href='../agendar'><img className='img-elements' src='/images/ferramenta-lapis 1.png' alt='lapis' width='20' height='20'></img></a>
                         </div>
                         <div className='elements-2'>
                             <div className='date-time'>
-                                <img src='' alt='calendario' width='30'></img>
-                                <img className='time' src='' alt='relogio' width='25'></img>
+                                <img src='/images/calendario 1.png' alt='calendario' width='30'></img>
                             </div>
                             <div>
                                 <p>Maria de Lourdes Rodrigues</p>
@@ -98,13 +90,11 @@ export default function Agendamentos(){
                     <div className='card-1'>
                         <div className='elements'>
                             <h3>Consulta</h3>
-                            <a href='../agendar'><img className='img-elements' src='' alt='lapis' width='20' height='20'></img></a>
-                            <img className='img-elements-1' src='' alt='lixeira' width='20' heigth='20'></img>
+                            <a href='../agendar'><img className='img-elements' src='/images/ferramenta-lapis 1.png' alt='lapis' width='20' height='20'></img></a>
                         </div>
                         <div className='elements-2'>
                             <div className='date-time'>
-                                <img src='' alt='calendario' width='30'></img>
-                                <img className='time' src='' alt='relogio' width='25'></img>
+                                <img src='/images/calendario 1.png' alt='calendario' width='30'></img>
                             </div>
                             <div>
                                 <p>Maria de Lourdes Rodrigues</p>
@@ -115,13 +105,11 @@ export default function Agendamentos(){
                     <div className='card-2'>
                         <div className='elements'>
                             <h3>Avaliação</h3>
-                            <a href='../agendar'><img className='img-elements' src='' alt='lapis' width='20' height='20'></img></a>
-                            <img className='img-elements-1' src='' alt='lixeira' width='20' heigth='20'></img>
+                            <a href='../agendar'><img className='img-elements' src='/images/ferramenta-lapis 1.png' alt='lapis' width='20' height='20'></img></a>
                         </div>
                         <div className='elements-2'>
                             <div className='date-time'>
-                                <img src='' alt='calendario' width='30'></img>
-                                <img className='time' src='' alt='relogio' width='25'></img>
+                                <img src='/images/calendario 1.png' alt='calendario' width='30'></img>
                             </div>
                             <div>
                                 <p>Maria de Lourdes Rodrigues</p>
@@ -132,13 +120,11 @@ export default function Agendamentos(){
                     <div className='card-1'>
                         <div className='elements'>
                             <h3>Consulta</h3>
-                            <a href='../agendar'><img className='img-elements' src='' alt='lapis' width='20' height='20'></img></a>
-                            <img className='img-elements-1' src='' alt='lixeira' width='20' heigth='20'></img>
+                            <a href='../agendar'><img className='img-elements' src='/images/ferramenta-lapis 1.png' alt='lapis' width='20' height='20'></img></a>
                         </div>
                         <div className='elements-2'>
                             <div className='date-time'>
-                                <img src='' alt='calendario' width='30'></img>
-                                <img className='time' src='' alt='relogio' width='25'></img>
+                                <img src='/images/calendario 1.png' alt='calendario' width='30'></img>
                             </div>
                             <div>
                                 <p>Maria de Lourdes Rodrigues</p>
@@ -149,13 +135,11 @@ export default function Agendamentos(){
                     <div className='card-2'>
                         <div className='elements'>
                             <h3>Avaliação</h3>
-                            <a href='../agendar'><img className='img-elements' src='' alt='lapis' width='20' height='20'></img></a>
-                            <img className='img-elements-1' src='' alt='lixeira' width='20' heigth='20'></img>
+                            <a href='../agendar'><img className='img-elements' src='/images/ferramenta-lapis 1.png' alt='lapis' width='20' height='20'></img></a>
                         </div>
                         <div className='elements-2'>
                             <div className='date-time'>
-                                <img src='' alt='calendario' width='30'></img>
-                                <img className='time' src='' alt='relogio' width='25'></img>
+                                <img src='/images/calendario 1.png' alt='calendario' width='30'></img>
                             </div>
                             <div>
                                 <p>Maria de Lourdes Rodrigues</p>
@@ -168,13 +152,11 @@ export default function Agendamentos(){
                     <div className='card-1'>
                         <div className='elements'>
                             <h3>Consulta</h3>
-                            <a href='../agendar'><img className='img-elements' src='' alt='lapis' width='20' height='20'></img></a>
-                            <img className='img-elements-1' src='' alt='lixeira' width='20' heigth='20'></img>
+                            <a href='../agendar'><img className='img-elements' src='/images/ferramenta-lapis 1.png' alt='lapis' width='20' height='20'></img></a>
                         </div>
                         <div className='elements-2'>
                             <div className='date-time'>
-                                <img src='' alt='calendario' width='30'></img>
-                                <img className='time' src='' alt='relogio' width='25'></img>
+                                <img src='/images/calendario 1.png' alt='calendario' width='30'></img>
                             </div>
                             <div>
                                 <p>Maria de Lourdes Rodrigues</p>
@@ -185,13 +167,11 @@ export default function Agendamentos(){
                     <div className='card-2'>
                         <div className='elements'>
                             <h3>Avaliação</h3>
-                            <a href='../agendar'><img className='img-elements' src='' alt='lapis' width='20' height='20'></img></a>
-                            <img className='img-elements-1' src='' alt='lixeira' width='20' heigth='20'></img>
+                            <a href='../agendar'><img className='img-elements' src='/images/ferramenta-lapis 1.png' alt='lapis' width='20' height='20'></img></a>
                         </div>
                         <div className='elements-2'>
                             <div className='date-time'>
-                                <img src='' alt='calendario' width='30'></img>
-                                <img className='time' src='' alt='relogio' width='25'></img>
+                                <img src='/images/calendario 1.png' alt='calendario' width='30'></img>
                             </div>
                             <div>
                                 <p>Maria de Lourdes Rodrigues</p>
@@ -202,13 +182,11 @@ export default function Agendamentos(){
                     <div className='card-1'>
                         <div className='elements'>
                             <h3>Consulta</h3>
-                            <a href='../agendar'><img className='img-elements' src='' alt='lapis' width='20' height='20'></img></a>
-                            <img className='img-elements-1' src='' alt='lixeira' width='20' heigth='20'></img>
+                            <a href='../agendar'><img className='img-elements' src='/images/ferramenta-lapis 1.png' alt='lapis' width='20' height='20'></img></a>
                         </div>
                         <div className='elements-2'>
                             <div className='date-time'>
-                                <img src='' alt='calendario' width='30'></img>
-                                <img className='time' src='' alt='relogio' width='25'></img>
+                                <img src='/images/calendario 1.png' alt='calendario' width='30'></img>
                             </div>
                             <div>
                                 <p>Maria de Lourdes Rodrigues</p>
@@ -219,13 +197,11 @@ export default function Agendamentos(){
                     <div className='card-2'>
                         <div className='elements'>
                             <h3>Avaliação</h3>
-                            <a href='../agendar'><img className='img-elements' src='' alt='lapis' width='20' height='20'></img></a>
-                            <img className='img-elements-1' src='' alt='lixeira' width='20' heigth='20'></img>
+                            <a href='../agendar'><img className='img-elements' src='/images/ferramenta-lapis 1.png' alt='lapis' width='20' height='20'></img></a>
                         </div>
                         <div className='elements-2'>
                             <div className='date-time'>
-                                <img src='' alt='calendario' width='30'></img>
-                                <img className='time' src='' alt='relogio' width='25'></img>
+                                <img src='/images/calendario 1.png' alt='calendario' width='30'></img>
                             </div>
                             <div>
                                 <p>Maria de Lourdes Rodrigues</p>

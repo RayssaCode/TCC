@@ -27,6 +27,10 @@ export default function Agendar(){
                         <input className='txt' type='text'></input>
                     </div>
                     <div className='caixa'>
+                        <p>Data de nascimento*</p>
+                        <input className='txt' type='date'></input>
+                    </div>
+                    <div className='caixa'>
                         <p>CPF*</p>
                         <input className='txt' type='text'></input>
                     </div>
@@ -56,6 +60,10 @@ export default function Agendar(){
                         </div>
                         <div className='caixa'>
                             <p>Data e hora*</p>
+                            <input className='txt' type='datetime-local'></input>
+                        </div>
+                        <div className='caixa'>
+                            <p>Valor*</p>
                             <input className='txt' type='text'></input>
                         </div>
                     </div>
