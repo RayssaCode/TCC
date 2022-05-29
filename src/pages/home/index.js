@@ -6,14 +6,16 @@ import './index.scss';
 export default function Home(){
     return(
         <main className='page-home'>
-            <section className='texto-logo'>
+            <nav className='faixa-1'>
                 <div className='logo'>
                     <div>
                         <img src='/images/odontotooths 1.svg' alt=''></img>
                     </div>
-                    <p className='login'><a href='../login'>Login</a></p>
+                    <div>
+                    <a className='login' href='/login'>Login</a>
+                    </div>
                 </div>
-            </section>
+            </nav>
 
             <section className='fundo'>
                 <div>
@@ -32,7 +34,7 @@ export default function Home(){
                         <div>
                             <div className='card-one'>
                                 <img src='/images/clareamento 2.svg' alt=''></img>
-                                <buttoon>Clareamento dental</buttoon>
+                                <button>Clareamento dental</button>
                             </div>
                         </div>
                         <div>
@@ -86,7 +88,6 @@ export default function Home(){
             <section className='faixa-3'>
                 <div>
                     <h1 className='f3-titulo'>Sobre Nós</h1>
-                    <br/><br/>
                     <h2 className='f3-texto'>A ODONTO TOOTH's é uma clínica odontológica que atua<br/>desde 2010 e conta com ótimas instalações no bairro de <br/>Alphaville, agradável recepção, consultórios modernos e <br/>confortáveis.<br/><br/>Em nossa clínica o ambiente é acolhedor para que se <br/> sintam em casa.<br/>Utilizamos materiais e equipamentos da mais alta qualidade,<br/>associados a conceitos técnicos atuais e estritos<br/>procedimentos de biosssegurança.<br/><br/>Nossa equipe é treinada para que sua experiência seja a mais<br/>satisfatória possível e assim consigamos alcançar a excelência em<br/>tudo que nos propomos a fazer pela sua saúde e seu bem estar.</h2>
                 </div>
             </section>
@@ -99,7 +100,7 @@ export default function Home(){
                         <p>Dra. Mônica Araujo<br/>Especialista em Dentistica</p>
                     </div>
                     <div className="f4-img">
-                    <img className="f4-imgs" src="/images/dentista2.svg"/>
+                    <img className="f4-imgs" src="/images/dentista2.svg" alt=''/>
                     <p>Dra. Hana Lewis<br/>Especialista em Periodontia</p>
                 </div>
                     <div className='f4-img'>

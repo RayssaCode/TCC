@@ -1,6 +1,7 @@
 .page-agendamentos{
     display: flex;
     flex-direction: column;
+    height: 1150px;
     .fundo-agendamentos {
         display: flex;
         flex-direction: row;
@@ -11,8 +12,11 @@
     .fundo-agendamento h2 {
         font-family: 'font4';
         color: #2F9C7C;
-        margin-left: 160px;
-        margin-top: 20px;
+    }
+
+    h2 {
+        color: #2F9C7C;
+        margin-left: 100px;
     }
     
     .pesquisa {
@@ -20,6 +24,7 @@
         border-radius: 15px;
         height: 35px;
         width: 300px;
+        margin: 15px 5px;
     }
     
     .txt-pesquisa {
@@ -32,65 +37,55 @@
         height: 35px;
         width: 260px;
     }
-    
-    .fundo-elements {  
-        display: flex;
-        flex-direction: row;
+
+    .fundo-elements {
         background-color: #CCFFE5;
-        height: 1000px;
+        height: 100%;
     }
-    
-    .cards {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        margin: 70px;
-    }
-    
+
     .elements {
         display: flex;
         flex-direction: row;
-        width: 100px;
-        margin-top: 15px;
+        justify-content: center;
+        align-items: center;
     }
-    
+
     .elements-2 {
         display: flex;
         flex-direction: column;
-        margin-right: 130px;
+        margin-left: 40px;
     }
-    
     .img-elements {
-        margin-left: 120px;
+        margin-left: 100px;
+    }   
+    .img-elements-2 {
+        margin-left: 20px;
     }
-    
-    .img-elements-1 {
-        margin-left: 10px;
-    }
-    
+
     h3 {
         font-family: 'font4';
         color: #2F9C7C;
+        margin-left: 150px;
     }
     
     p {
         font-family: 'font6';
         color: #9F9F9F;
     }
-    
-    .date-time {
-        margin-top: 25px;
-        margin: 20px 0px;
+
+    .cards {
         display: flex;
-        justify-content: space-between;
+        flex-direction: row;
+        justify-content: space-evenly;
+        margin-top: 20px;
     }
     
     .card-1 {
         display: flex;
         flex-direction: column;
-        align-items: center;
         background-color: #ffffff;
         width: 430px;
+        margin-top: 50px;
         height: 170px;
         border: 1px solid #2F9C7C;
         border-radius: 15px;
@@ -99,11 +94,10 @@
     .card-2 {
         display: flex;
         flex-direction: column;
-        align-items: center;
         background-color: #ffffff;
         width: 430px;
         height: 170px;
-        margin-left: 150px;
+        margin-top: 50px;
         border: 1px solid #2F9C7C;
         border-radius: 15px;
     }

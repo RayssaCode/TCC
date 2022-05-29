@@ -29,6 +29,7 @@ export default function Agendamentos(){
                         <div className='elements'>
                             <h3>Consulta</h3>
                             <a href='../agendar'><img className='img-elements' src='/images/ferramenta-lapis 1.png' alt='lapis' width='20' height='20'></img></a>
+                            <img className='img-elements-2' src='/images/lixeira 1.png' alt='lapis' width='20' height='20'></img>
                         </div>
                         <div className='elements-2'>
                             <div className='date-time'>
@@ -44,6 +45,7 @@ export default function Agendamentos(){
                         <div className='elements'>
                             <h3>Avaliação</h3>
                             <a href='../agendar'><img className='img-elements' src='/images/ferramenta-lapis 1.png' alt='lapis' width='20' height='20'></img></a>
+                            <img className='img-elements-2' src='/images/lixeira 1.png' alt='lapis' width='20' height='20'></img>
                         </div>
                         <div className='elements-2'>
                             <div className='date-time'>
@@ -55,42 +57,15 @@ export default function Agendamentos(){
                             </div>
                         </div>
                     </div>
-                    <div className='card-1'>
-                        <div className='elements'>
-                            <h3>Consulta</h3>
-                            <a href='../agendar'><img className='img-elements' src='/images/ferramenta-lapis 1.png' alt='lapis' width='20' height='20'></img></a>
-                        </div>
-                        <div className='elements-2'>
-                            <div className='date-time'>
-                                <img src='/images/calendario 1.png' alt='calendario' width='30'></img>
-                            </div>
-                            <div>
-                                <p>Maria de Lourdes Rodrigues</p>
-                                <p>Dra. Hana Lewis</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div className='card-2'>
-                        <div className='elements'>
-                            <h3>Avaliação</h3>
-                            <a href='../agendar'><img className='img-elements' src='/images/ferramenta-lapis 1.png' alt='lapis' width='20' height='20'></img></a>
-                        </div>
-                        <div className='elements-2'>
-                            <div className='date-time'>
-                                <img src='/images/calendario 1.png' alt='calendario' width='30'></img>
-                            </div>
-                            <div>
-                                <p>Maria de Lourdes Rodrigues</p>
-                                <p>Dr. Yuri</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                </div>    
+
+
                 <div className='cards'>
                     <div className='card-1'>
                         <div className='elements'>
                             <h3>Consulta</h3>
                             <a href='../agendar'><img className='img-elements' src='/images/ferramenta-lapis 1.png' alt='lapis' width='20' height='20'></img></a>
+                            <img className='img-elements-2' src='/images/lixeira 1.png' alt='lapis' width='20' height='20'></img>
                         </div>
                         <div className='elements-2'>
                             <div className='date-time'>
@@ -106,6 +81,7 @@ export default function Agendamentos(){
                         <div className='elements'>
                             <h3>Avaliação</h3>
                             <a href='../agendar'><img className='img-elements' src='/images/ferramenta-lapis 1.png' alt='lapis' width='20' height='20'></img></a>
+                            <img className='img-elements-2' src='/images/lixeira 1.png' alt='lapis' width='20' height='20'></img>
                         </div>
                         <div className='elements-2'>
                             <div className='date-time'>
@@ -117,42 +93,14 @@ export default function Agendamentos(){
                             </div>
                         </div>
                     </div>
-                    <div className='card-1'>
-                        <div className='elements'>
-                            <h3>Consulta</h3>
-                            <a href='../agendar'><img className='img-elements' src='/images/ferramenta-lapis 1.png' alt='lapis' width='20' height='20'></img></a>
-                        </div>
-                        <div className='elements-2'>
-                            <div className='date-time'>
-                                <img src='/images/calendario 1.png' alt='calendario' width='30'></img>
-                            </div>
-                            <div>
-                                <p>Maria de Lourdes Rodrigues</p>
-                                <p>Dra. Hana Lewis</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div className='card-2'>
-                        <div className='elements'>
-                            <h3>Avaliação</h3>
-                            <a href='../agendar'><img className='img-elements' src='/images/ferramenta-lapis 1.png' alt='lapis' width='20' height='20'></img></a>
-                        </div>
-                        <div className='elements-2'>
-                            <div className='date-time'>
-                                <img src='/images/calendario 1.png' alt='calendario' width='30'></img>
-                            </div>
-                            <div>
-                                <p>Maria de Lourdes Rodrigues</p>
-                                <p>Dr. Yuri</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                </div> 
+
                 <div className='cards'>
                     <div className='card-1'>
                         <div className='elements'>
                             <h3>Consulta</h3>
                             <a href='../agendar'><img className='img-elements' src='/images/ferramenta-lapis 1.png' alt='lapis' width='20' height='20'></img></a>
+                            <img className='img-elements-2' src='/images/lixeira 1.png' alt='lapis' width='20' height='20'></img>
                         </div>
                         <div className='elements-2'>
                             <div className='date-time'>
@@ -168,6 +116,7 @@ export default function Agendamentos(){
                         <div className='elements'>
                             <h3>Avaliação</h3>
                             <a href='../agendar'><img className='img-elements' src='/images/ferramenta-lapis 1.png' alt='lapis' width='20' height='20'></img></a>
+                            <img className='img-elements-2' src='/images/lixeira 1.png' alt='lapis' width='20' height='20'></img>
                         </div>
                         <div className='elements-2'>
                             <div className='date-time'>
@@ -179,10 +128,14 @@ export default function Agendamentos(){
                             </div>
                         </div>
                     </div>
+                </div> 
+
+                <div className='cards'>
                     <div className='card-1'>
                         <div className='elements'>
                             <h3>Consulta</h3>
                             <a href='../agendar'><img className='img-elements' src='/images/ferramenta-lapis 1.png' alt='lapis' width='20' height='20'></img></a>
+                            <img className='img-elements-2' src='/images/lixeira 1.png' alt='lapis' width='20' height='20'></img>
                         </div>
                         <div className='elements-2'>
                             <div className='date-time'>
@@ -198,6 +151,7 @@ export default function Agendamentos(){
                         <div className='elements'>
                             <h3>Avaliação</h3>
                             <a href='../agendar'><img className='img-elements' src='/images/ferramenta-lapis 1.png' alt='lapis' width='20' height='20'></img></a>
+                            <img className='img-elements-2' src='/images/lixeira 1.png' alt='lapis' width='20' height='20'></img>
                         </div>
                         <div className='elements-2'>
                             <div className='date-time'>
@@ -209,7 +163,7 @@ export default function Agendamentos(){
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> 
             </section>
         </main>
     );
