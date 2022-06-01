@@ -1,4 +1,5 @@
 .page-login{
+    background-color: #82DDAE;
     .faixa-login {
         display: flex;
         flex-direction: column;
@@ -23,6 +24,11 @@
         color: #2F9C7C;
     }
     
+    .txt-icones {
+        display: flex;
+        flex-direction: row;        
+    }
+
     .conteudo {
         padding-top: 30px;
     }
