@@ -41,16 +41,16 @@ export default function Agendar(){
                     <div className='f2-doutor'>
                         <h3 className='caixa-txt'>Doutor</h3>
                         <div className='radio'>
-                            <input type='radio' name='Doutor' value='Dra.Mônica Araujo'></input>Dra. Mônica Araujo
+                            <input type='radio' name='Doutor' value='Dra.Mônica Araujo'/>Dra. Mônica Araujo
                         </div>
                         <div className='radio'>
-                            <input type='radio' name='Doutor'></input>Dra. Hana Lewis
+                            <input type='radio' name='Doutor'/>Dra. Hana Lewis
                         </div>
                         <div className='radio'>
-                            <input type='radio' name='Doutor'></input>Dr. Yuri Ikari
+                            <input type='radio' name='Doutor'/>Dr. Yuri Ikari
                         </div>
                         <div className='radio'>
-                            <input type='radio' name='Doutor'></input>Dr. Fernando Winson
+                            <input type='radio' name='Doutor'/>Dr. Fernando Winson
                         </div>
                     </div>
                     <div>

@@ -127,10 +127,10 @@ export default function Home(){
                     <div className='f5-images'>
                         <img className='f5-logo' src='/images/odontotooths 1.svg' alt=''></img>
                         <br/><br/>
-                        <img className='icon' src='/images/instagram (2) 2.svg' alt='instagram'></img>
-                        <img className='f5-icon' src='/images/telefone 1.svg' alt='telefone'></img>
-                        <img className='f5-icon' src='/images/twitter (2) 2.svg' alt='twitter'></img>
-                        <img className='f5-icon' src='/images/whatsapp (1) 2.svg' alt='whatsapp'></img>
+                        <img className='icon' src='/images/instagram (2) 2.svg' alt='instagram' width='25'/>
+                        <img className='f5-icon' src='/images/telefone 1.svg' alt='telefone' width='25'/>
+                        <img className='f5-icon' src='/images/twitter (2) 2.svg' alt='twitter' width='25'/>
+                        <img className='f5-icon' src='/images/whatsapp (1) 2.svg' alt='whatsapp' width='25'/>
                         <p>Agende uma avaliação</p>
                     </div>
                     <div className='f5-texto-2'>

@@ -1,6 +1,6 @@
 .page-agendar{
     background-color: #F5F5F5;
-    height: 1500px;
+    height: 1380px;
 
     .faixa-1 {
         background-color: #fff;
@@ -10,7 +10,7 @@
         display: flex;
         flex-direction: row;
         justify-content: space-between;
-        font-family: 'font4';
+        font-family: 'font3';
     }
     
     .logo {
@@ -51,6 +51,7 @@
     }
     
     .caixa-txt {
+        font-family: 'font6';
         margin-top: 30px;
     }
     
@@ -58,7 +59,7 @@
         display: flex;
         flex-direction: row;
         margin-top: 10px;
-        font-family: 'font7';
+        font-family: 'font1';
     }
     
     .f2-botao {

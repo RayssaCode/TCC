@@ -11,7 +11,7 @@ export default function Login() {
         <div className="destacar-login">
           <div className="conteudo">
             <div className="txt-icones">
-              <img src="/images/perfil 1 (1).svg" alt="perfil" />
+              <img src="/images/perfil 1 (1).svg" alt="perfil" width='30'/>
               <p>Nome*</p>
             </div>
             <div>
@@ -19,7 +19,7 @@ export default function Login() {
             </div>
 
             <div className="txt-icones">
-              <img src="/images/o-email 1.svg" alt="email" />
+              <img src="/images/o-email 1.svg" alt="email" width='30'/>
               <p>E-mail*</p>
             </div>
             <div>
@@ -27,11 +27,11 @@ export default function Login() {
             </div>
 
             <div className="txt-icones">
-              <img src="/images/cadeado 1.svg" alt="cadeado" />
+              <img src="/images/cadeado 1.svg" alt="cadeado" width='30'/>
               <p>Senha*</p>
             </div>
             <div>
-              <input className="f-1" type="password" />
+              <input className="f-1" type="password" width='30'/>
             </div>
 
             <a href="../administrativo">

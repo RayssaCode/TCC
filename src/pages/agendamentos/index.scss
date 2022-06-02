@@ -8,15 +8,11 @@
         justify-content: space-between;
         padding: 15px 50px;
     }
-    
-    .fundo-agendamento h2 {
-        font-family: 'font4';
-        color: #2F9C7C;
-    }
 
     h2 {
+        font-family: 'font3';
         color: #2F9C7C;
-        margin-left: 100px;
+        margin: 15px 0px;
     }
     
     .pesquisa {
@@ -48,6 +44,7 @@
         flex-direction: row;
         justify-content: center;
         align-items: center;
+        margin: 10px;
     }
 
     .elements-2 {
@@ -60,6 +57,10 @@
     }   
     .img-elements-2 {
         margin-left: 20px;
+    }
+
+    .date-time {
+        margin: 10px;
     }
 
     h3 {

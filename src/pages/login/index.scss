@@ -1,10 +1,10 @@
 .page-login{
     background-color: #82DDAE;
+    height: 100vh;
     .faixa-login {
         display: flex;
         flex-direction: column;
         background-color: #82DDAE;
-        height: 100vh;
         text-align: center;
     }
     
@@ -14,22 +14,24 @@
         background-color: #64C79D;
         padding: 30px 0px;
         border-radius: 30px;
-        margin: 0px 450px 400px;
+        margin: 40px 450px;
     }
     
     .logo {
-        padding-left: 50px;
         display: flex;
         justify-content: space-between;
         color: #2F9C7C;
+        padding-left: 50px;
     }
     
     .txt-icones {
         display: flex;
-        flex-direction: row;        
+        flex-direction: row;
+        margin: 10px 0px;
     }
 
     .conteudo {
+        text-align: center;
         padding-top: 30px;
     }
     
@@ -38,8 +40,8 @@
         font-size: 16px;
         background-color: #CCFFE5;
         color: #2F9C7C;
+        margin: 50px 0px;
         padding: 15px 60px;
-        margin-top: 50px;
         border-radius: 5px;
         border: none;
         cursor: pointer;
@@ -53,8 +55,8 @@
     }
     
     .voltar {
+        font-family: 'font3';
         padding-top: 50px;
-        font-family: 'font4';
         margin-right: 100px;
     }
     
@@ -65,5 +67,9 @@
     
     .logos {
         padding-right: 300px;
+    }
+
+    p {
+        font-family: 'font1';
     }
 }
